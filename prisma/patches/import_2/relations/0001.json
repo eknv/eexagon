@@ -1,0 +1,52 @@
+{
+  "valueType": "relations",
+  "values": [
+    [
+      {
+        "_typeName": "EntryRelationType",
+        "id": "cjrhvtxm40003yw96gtsukq2i",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "EntryRelationType",
+        "id": "cjrhvtxm40004yw96fesylg73",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "EntryRelationType",
+        "id": "cjrhvtxm50005yw96yebgjiv5",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "EntryRelationType",
+        "id": "cjrhvtxm50006yw96yjck3we5",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ]
+  ]
+}

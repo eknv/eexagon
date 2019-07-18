@@ -1,0 +1,29 @@
+{
+  "valueType": "nodes",
+  "values": [
+    {
+      "_typeName": "EntryRelationType",
+      "id": "cjrhvtxm40003yw96gtsukq2i",
+      "value": "Usage",
+      "description": ""
+    },
+    {
+      "_typeName": "EntryRelationType",
+      "id": "cjrhvtxm40004yw96fesylg73",
+      "value": "Synonym",
+      "description": ""
+    },
+    {
+      "_typeName": "EntryRelationType",
+      "id": "cjrhvtxm50005yw96yebgjiv5",
+      "value": "Antonym",
+      "description": ""
+    },
+    {
+      "_typeName": "EntryRelationType",
+      "id": "cjrhvtxm50006yw96yjck3we5",
+      "value": "Translation",
+      "description": ""
+    }
+  ]
+}

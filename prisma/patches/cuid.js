@@ -1,0 +1,12 @@
+var cuid = require('cuid')
+
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())
+console.log(cuid())

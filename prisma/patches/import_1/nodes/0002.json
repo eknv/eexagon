@@ -1,0 +1,36 @@
+{
+  "valueType": "nodes",
+  "values": [{
+      "_typeName": "Attribute",
+      "id": "cjrhmojfg0001g896330ijep7",
+      "title": "Type",
+      "description": "Types like word, usage, conjugation etc.",
+      "type": "MULTISELECT",
+      "mandatoryCondition": "true"
+    },
+    {
+      "_typeName": "Attribute",
+      "id": "cjrhmojfh0003g896uz20q0xm",
+      "title": "Word Type",
+      "description": "Types like noun, verb etc.",
+      "type": "MULTISELECT",
+      "mandatoryCondition": "false"
+    },
+    {
+      "_typeName": "Attribute",
+      "id": "cjrhmojfi0004g896gpdhi48g",
+      "title": "Language",
+      "description": "Languages like English, Deutsch, Español, etc.",
+      "type": "MULTISELECT",
+      "mandatoryCondition": "true"
+    },
+    {
+      "_typeName": "Attribute",
+      "id": "cjrhmojfi0005g896z5qvq4th",
+      "title": "Favorite",
+      "description": "If it is favorited by the user",
+      "type": "Boolean",
+      "mandatoryCondition": "false"
+    }
+  ]
+}

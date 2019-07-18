@@ -1,0 +1,106 @@
+{
+  "valueType": "relations",
+  "values": [
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60007yw96k7vvuwgz",
+        "fieldName": "from"
+      },
+      {
+        "_typeName": "Entry",
+        "id": "cjrhra9zv0006sg96tb5y3ltn"
+      }
+    ],
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60007yw96k7vvuwgz",
+        "fieldName": "to"
+      },
+      {
+        "_typeName": "Entry",
+        "id": "cjrhvtxlz0000yw96yrd6sa6g"
+      }
+    ],
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60007yw96k7vvuwgz",
+        "fieldName": "relationType"
+      },
+      {
+        "_typeName": "EntryRelationType",
+        "id": "cjrhvtxm40003yw96gtsukq2i"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60008yw96v2wdc5vb",
+        "fieldName": "from"
+      },
+      {
+        "_typeName": "Entry",
+        "id": "cjrhra9zv0007sg96towjobcr"
+      }
+    ],
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60008yw96v2wdc5vb",
+        "fieldName": "to"
+      },
+      {
+        "_typeName": "Entry",
+        "id": "cjrhvtxm30001yw9639usxk4m"
+      }
+    ],
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60008yw96v2wdc5vb",
+        "fieldName": "relationType"
+      },
+      {
+        "_typeName": "EntryRelationType",
+        "id": "cjrhvtxm40003yw96gtsukq2i"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60009yw96erzh9l65",
+        "fieldName": "from"
+      },
+      {
+        "_typeName": "Entry",
+        "id": "cjrhra9zv0008sg96akso62ov"
+      }
+    ],
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60009yw96erzh9l65",
+        "fieldName": "to"
+      },
+      {
+        "_typeName": "Entry",
+        "id": "cjrhvtxm30002yw962fy1kt62"
+      }
+    ],
+    [
+      {
+        "_typeName": "RelatedEntry",
+        "id": "cjrhvtxm60009yw96erzh9l65",
+        "fieldName": "relationType"
+      },
+      {
+        "_typeName": "EntryRelationType",
+        "id": "cjrhvtxm40003yw96gtsukq2i"
+      }
+    ]
+  ]
+}

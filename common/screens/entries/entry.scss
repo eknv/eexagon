@@ -1,0 +1,46 @@
+@import "Common/styles/colors.scss";
+
+$entry_bg: #c2bfbc;
+$content_bg: #E9ECEF;
+$entry_2_border_color: #888c9f;
+
+.entry {
+  background-color: $entry_bg;
+  padding: 0.7em;
+  border-radius: 0.5em;
+  margin: 0.5em;
+  width:100%;
+
+  .header {
+    font-size: 2em;
+  }
+
+  .content {
+    font-size: 1em;
+    background-color: $content_bg;
+    padding: 0.5em;
+    border-radius: 0.2em;
+  }
+
+  .attributes {
+    font-size: 0.7em;
+    padding: 2em;
+
+    .attribute {
+      padding-right: 1em;
+      float: left;
+    }
+
+    .title {
+      font-weight: bold;
+    }
+  }
+
+  .relatedEntries {
+
+    .entry {
+      border: 1px solid $entry_2_border_color;
+    }
+  }
+
+}

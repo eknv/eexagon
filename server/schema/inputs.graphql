@@ -1,0 +1,13 @@
+
+# import PostCreateInput from "./prisma-client/prisma.graphql";
+
+input EntryDTO {
+  term: String
+  level: Int
+  attributeValues: [AttributeValueDTO!]
+}
+
+input AttributeValueDTO {
+  id: String!
+  attributeValueIds: [String!]
+}

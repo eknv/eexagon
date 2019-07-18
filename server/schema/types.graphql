@@ -1,0 +1,41 @@
+
+# import Scope from "./prisma-client/prisma.graphql"
+# import Attribute from "./prisma-client/prisma.graphql"
+# import AttributeValue from "./prisma-client/prisma.graphql"
+# import Entry from "./prisma-client/prisma.graphql"
+# import EntryAttributeValue from "./prisma-client/prisma.graphql"
+# import EntryRelationType from "./prisma-client/prisma.graphql"
+# import RelatedEntry from "./prisma-client/prisma.graphql"
+
+
+type AuthPayload {
+  id: ID!
+  token: String!
+  user: User!
+}
+
+type User {
+  id: ID!
+  email: String!
+  name: String!
+  posts: [Post!]!
+}
+
+type Post {
+  id: ID!
+  published: Boolean!
+  title: String!
+  content: String!
+  author: User!
+}
+
+type EntryResult {
+  entriesPerPage: Int!
+  count: Int!
+  entries: [Entry!]!
+}
+
+type ParameterResult {
+  attributes: [Attribute!]!
+  entryRelationTypes: [EntryRelationType!]!
+}

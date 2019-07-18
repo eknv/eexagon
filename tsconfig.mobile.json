@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "Common/*": ["common/*"]
+    },
+    "rootDirs": [
+      "./common"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "target": "es5",
+    "lib": [
+      "dom",
+      "esnext",
+      "es2017"
+    ]
+  },
+  "include": [
+    "mobile",
+    "common",
+    "ambient.d.ts"
+  ]
+}

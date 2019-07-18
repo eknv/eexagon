@@ -1,0 +1,14 @@
+{
+  "valueType": "nodes",
+  "values": [{
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12400001o96daeok4k0",
+      "isDefault": true
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhra9zp0000sg96l0sjgfuf",
+      "isDefault": "English"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  // ===
+  // Spacing
+  // ===
+
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+
+  // ===
+  // Files
+  // ===
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "files.associations": {
+    ".markdownlintrc": "jsonc"
+  },
+
+  // ===
+  // Event Triggers
+  // ===
+
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.run": "onSave",
+  "eslint.validate": [{
+      "language": "javascript",
+      "autofix": true
+    },
+    {
+      "language": "javascriptreact",
+      "autofix": true
+    },
+    {
+      "language": "vue",
+      "autofix": true
+    },
+    {
+      "language": "vue-html",
+      "autofix": true
+    },
+    {
+      "language": "html",
+      "autofix": true
+    },
+    {
+      "language": "graphql",
+      "autofix": true
+    }
+  ],
+  "vetur.completion.useScaffoldSnippets": false,
+
+  // ===
+  // HTML
+  // ===
+
+  "html.format.enable": false,
+  "html.suggest.angular1": false,
+  "html.suggest.ionic": false,
+  "vetur.validation.template": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html"
+  },
+
+  // ===
+  // JS(ON)
+  // ===
+
+  "jest.autoEnable": false,
+  "jest.enableCodeLens": false,
+  "javascript.format.enable": false,
+  "json.format.enable": false,
+  "vetur.validation.script": false,
+
+  // ===
+  // CSS
+  // ===
+
+  "stylelint.enable": true,
+  "css.validate": false,
+  "scss.validate": false,
+  "vetur.validation.style": false,
+
+  // ===
+  // MARKDOWN
+  // ===
+
+  "[markdown]": {
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80
+  },
+
+  // ===
+  // REACT NATIVE
+  // ===
+  "react-native": {
+    "packager": {
+      "port": 19001
+    }
+  },
+
+  "react-native-tools": {
+    "projectRoot": "./mobile"
+  },
+
+  "files.exclude": {
+    "**/.git": true, // this is a default value
+    "**/.DS_Store": true, // this is a default value
+
+    "**/node_modules": true // this excludes all folders
+    // named "node_modules" from
+    // the explore tree
+  }
+}

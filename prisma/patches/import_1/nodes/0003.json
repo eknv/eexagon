@@ -1,0 +1,79 @@
+{
+  "valueType": "nodes",
+  "values": [{
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12400001o96daeok4k0",
+      "value": "Word",
+      "isDefault": "{'1':'true'}"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhra9zu0005sg96ufymx2lz",
+      "value": "Usage"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12700011o968onpf3iz",
+      "value": "Text"
+    },
+
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12800021o96137vbroo",
+      "value": "Noun"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12800031o963i4pv00c",
+      "value": "Verb"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12800041o96g1qw9w6i",
+      "value": "Adjective"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12900051o96759y37rl",
+      "value": "Adverb"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12900061o96t4owguhf",
+      "value": "Pronoun"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhpf12a00071o96kbdb9r8l",
+      "value": "Connective"
+    },
+
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhra9zp0000sg96l0sjgfuf",
+      "value": "English",
+      "isDefault": "{'1':'true'}"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhra9zs0001sg96iarm7c25",
+      "value": "Deutsch"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhra9zt0002sg96lz48qpih",
+      "value": "Español"
+    },
+
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhra9zt0003sg96g2hmqxc4",
+      "value": "true"
+    },
+    {
+      "_typeName": "AttributeValue",
+      "id": "cjrhra9zu0004sg96bvr9wtbt",
+      "value": "false"
+    }
+  ]
+}

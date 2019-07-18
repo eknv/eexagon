@@ -1,0 +1,8 @@
+@import "Common/styles/colors.scss";
+@import "Common/styles/universal.scss";
+
+$entry_bg: red;
+$content_bg: blue;
+$entry_2_border_color: orange;
+
+@import "./main.scss";

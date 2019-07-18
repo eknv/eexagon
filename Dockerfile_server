@@ -1,0 +1,26 @@
+FROM keymetrics/pm2:latest-alpine
+
+WORKDIR /app
+
+COPY package.json .
+COPY ./dist ./dist
+COPY ./ambient.d.ts .
+COPY ecosystem.config.js .
+RUN mkdir -p ./dist/server
+COPY server/schema ./dist/server/schema
+RUN ls -al -R
+
+
+# Install app dependencies
+RUN apk update && apk add --virtual build-dependencies nasm zlib-dev automake autoconf libtool build-base gcc wget git
+ENV NPM_CONFIG_LOGLEVEL warn
+RUN npm install
+# RUN npm install --production
+
+# Expose the listening port of your app
+EXPOSE 5000
+
+RUN npm install pm2 -g
+CMD [ "pm2-runtime", "start", "ecosystem.config.js" ]
+# CMD npm back:run:prod
+

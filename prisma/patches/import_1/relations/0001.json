@@ -1,0 +1,162 @@
+{
+  "valueType": "relations",
+  "values": [
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12400001o96daeok4k0",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfg0001g896330ijep7"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhra9zu0005sg96ufymx2lz",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfg0001g896330ijep7"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12700011o968onpf3iz",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfg0001g896330ijep7"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12800021o96137vbroo",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfh0003g896uz20q0xm"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12800031o963i4pv00c",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfh0003g896uz20q0xm"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12800041o96g1qw9w6i",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfh0003g896uz20q0xm"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12900051o96759y37rl",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfh0003g896uz20q0xm"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12900061o96t4owguhf",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfh0003g896uz20q0xm"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhpf12a00071o96kbdb9r8l",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfh0003g896uz20q0xm"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhra9zp0000sg96l0sjgfuf",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfi0004g896gpdhi48g"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhra9zs0001sg96iarm7c25",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfi0004g896gpdhi48g"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhra9zt0002sg96lz48qpih",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfi0004g896gpdhi48g"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhra9zt0003sg96g2hmqxc4",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfi0005g896z5qvq4th"
+      }
+    ],
+    [
+      {
+        "_typeName": "AttributeValue",
+        "id": "cjrhra9zu0004sg96bvr9wtbt",
+        "fieldName": "attribute"
+      },
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfi0005g896z5qvq4th"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,74 @@
+
+.pagination {
+  @extend .noselect;
+  background-image: linear-gradient(to right, $entry_bg, #E9ECEF);
+  margin-top: 2em;
+  margin-bottom: -2em;
+
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+
+  text-decoration: none;
+  font-size: 1em;
+  padding: 0.5em;
+
+  ul {
+    display: inline-block;
+    paddingLeft: "15px";
+    paddingRight: "15px";
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  .page {
+    padding: 0.5em;
+  }
+
+  a {
+    color: black;
+    outline: none;
+
+    &.pageLink {
+      &:link {
+        text-decoration: none;
+      }
+
+      &:visited {
+        text-decoration: none;
+      }
+
+      &:hover {
+        text-decoration: underline;
+        color: entry_2_border_color;
+      }
+
+      &:active {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .break {
+    padding: 0.5em;
+  }
+
+  .active {
+    background-color: $content_bg;
+    font-size: 1.1em;
+  }
+
+  .disabled {
+  }
+
+  .previous {
+    padding: 0.5em;
+  }
+
+  .next {
+    padding: 0.5em;
+  }
+
+}

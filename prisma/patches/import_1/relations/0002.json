@@ -1,0 +1,52 @@
+{
+  "valueType": "relations",
+  "values": [
+    [
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfg0001g896330ijep7",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfh0003g896uz20q0xm",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfi0004g896gpdhi48g",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ],
+
+    [
+      {
+        "_typeName": "Attribute",
+        "id": "cjrhmojfi0005g896z5qvq4th",
+        "fieldName": "scope"
+      },
+      {
+        "_typeName": "Scope",
+        "id": "cjrhmojfd0000g896pulsqmw6"
+      }
+    ]
+  ]
+}
